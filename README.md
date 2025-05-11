@@ -1,4 +1,4 @@
-# Sample JS HTML Project
+# Memory_Card_Game_CICD_Pipeline
 
 This is a simple JavaScript and HTML project with a basic file structure, including automated code quality checks, pre-commit hooks, and conventional commit message enforcement.
 
