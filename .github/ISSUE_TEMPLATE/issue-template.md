@@ -7,11 +7,6 @@ assignees: ''
 
 ---
 
-## 🚀 Title  
-*Short, imperative summary (e.g. “Implement point system based on matched cards”)*
-
----
-
 ### 📝 User Story  
 > As a **[role]**, I want **[feature]**, so that **[benefit]**.
 
