@@ -60,3 +60,9 @@ npm run coverage
 ```
 
 - Generates a coverage report for all tests.
+
+## Project Folder Purpose
+CSS - contains all stylesheets   
+HTML - contains all html pages and components      
+Scripts - holds Javascript files    
+Assets - holds any media ranging from images to documantation     
